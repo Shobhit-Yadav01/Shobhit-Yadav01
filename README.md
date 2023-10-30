@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shobhit-Yadav01
+- 👋 Hi, I’m @Shobhit-Yadav
 - 👀 I’m interested in Hacking & Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on .
